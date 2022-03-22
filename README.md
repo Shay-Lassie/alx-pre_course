@@ -1,2 +1,2 @@
 My First ReadMe
-The ALX SE Program 2022 starting March
+The ALX SE Program of 2022 starting in March
